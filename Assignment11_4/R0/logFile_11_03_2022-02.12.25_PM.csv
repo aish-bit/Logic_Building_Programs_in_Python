@@ -1,0 +1,12 @@
+-----------------------Aishwarya Karande : Duplicate File Automation Script-------------------------
+Script name : ,DirectoryDuplicateRemovalTime.py
+Duplicate files are : 
+1,"['Demo\\demo1.txt', 'Demo\\new_Dummy_1\\new_Dummy_2\\demo2.cpp', 'Demo\\new_Dummy_1\\new_Dummy_2\\demo6.txt']"
+2,"['Demo\\demo2.txt', 'Demo\\new_Dummy_1\\demo2.c']"
+List of duplicate files deleted from directory : 
+1,Demo\demo1.txt
+2,Demo\new_Dummy_1\new_Dummy_2\demo2.cpp
+3,Demo\demo2.txt
+-----------------------Aishwarya Karande : Duplicate File Automation Script-------------------------
+Script name : ,DirectoryDuplicateRemovalTime.py
+Exception occured : ,I/O operation on closed file.

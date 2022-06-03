@@ -1,0 +1,3 @@
+-----------------------Aishwarya Karande : Automation Script-------------------------
+Script name : ,DirectoryChecksum.py
+Usage : Script accepts directory path from user. And create log file which shows checksum of all files

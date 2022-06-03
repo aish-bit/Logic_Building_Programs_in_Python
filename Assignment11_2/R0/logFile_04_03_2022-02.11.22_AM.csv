@@ -1,0 +1,7 @@
+--------Aishwarya Karande : Duplicate File Automation Script----------
+Script name : ,DirectoryDuplicate.py
+Duplicate files are : 
+Demo\demo1.txt
+Demo\new_Dummy_1\new_Dummy_2\demo2.cpp
+Demo\demo2.txt
+Demo\new_Dummy_1\demo2.c

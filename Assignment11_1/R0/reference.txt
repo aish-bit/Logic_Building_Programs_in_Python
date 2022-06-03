@@ -1,0 +1,6 @@
+What is a Checksum and How to Calculate a Checksum:
+https://www.online-tech-tips.com/cool-websites/what-is-checksum/
+https://www.youtube.com/watch?v=foW81MyfwC4
+
+Python code to find the md5 checksum of a file:
+https://amalgjose.com/2013/09/30/python-code-to-find-the-md5-checksum-of-a-file/

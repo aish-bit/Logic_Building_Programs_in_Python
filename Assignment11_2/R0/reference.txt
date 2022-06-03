@@ -1,0 +1,5 @@
+Finding Duplicate Files with Python:
+https://www.geeksforgeeks.org/finding-duplicate-files-with-python/
+
+How to extract a filename from a path in Python:
+https://www.kite.com/python/answers/how-to-extract-a-filename-from-a-path-in-python
