@@ -1,0 +1,8 @@
+# Why Python's Integer Division Floors :
+http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html
+
+#The modulo operation on negative numbers in Python : 
+https://stackoverflow.com/questions/3883004/the-modulo-operation-on-negative-numbers-in-python
+
+#math.fmod python:
+
