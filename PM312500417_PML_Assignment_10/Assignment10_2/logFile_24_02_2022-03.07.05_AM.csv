@@ -1,0 +1,6 @@
+-----------------------Aishwarya Karande : Automation Script-------------------------
+Script name : ,DirectoryRename.py
+Files from directory and its sub directories with existing extension ,.docx, : 
+F:\Marvellous_Infosystem\PML\Assignments_Completed\PM312500417_PML_Assignment_10\Assignment10_2\Dummy\demo1.docx,F:\Marvellous_Infosystem\PML\Assignments_Completed\PM312500417_PML_Assignment_10\Assignment10_2\Dummy\demo2.docx,F:\Marvellous_Infosystem\PML\Assignments_Completed\PM312500417_PML_Assignment_10\Assignment10_2\Dummy\demo3.docx,F:\Marvellous_Infosystem\PML\Assignments_Completed\PM312500417_PML_Assignment_10\Assignment10_2\Dummy\new_Dummy\demo4.docx
+Files from directory and its sub directories with new changed extension ,.txt, : 
+F:\Marvellous_Infosystem\PML\Assignments_Completed\PM312500417_PML_Assignment_10\Assignment10_2\Dummy\demo1.txt,F:\Marvellous_Infosystem\PML\Assignments_Completed\PM312500417_PML_Assignment_10\Assignment10_2\Dummy\demo2.txt,F:\Marvellous_Infosystem\PML\Assignments_Completed\PM312500417_PML_Assignment_10\Assignment10_2\Dummy\demo3.txt,F:\Marvellous_Infosystem\PML\Assignments_Completed\PM312500417_PML_Assignment_10\Assignment10_2\Dummy\new_Dummy\demo4.txt

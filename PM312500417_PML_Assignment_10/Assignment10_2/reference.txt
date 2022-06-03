@@ -1,0 +1,4 @@
+How to rename all files in a directory and its subdirectory in Python(know this concept and you can do this by your own):
+https://www.geeksforgeeks.org/os-walk-python/?ref=lbp
+
+

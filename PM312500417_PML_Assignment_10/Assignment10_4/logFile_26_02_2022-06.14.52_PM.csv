@@ -1,0 +1,7 @@
+-----------------------Aishwarya Karande : Automation Script-------------------------
+Script name : ,DirectoryCopyExt.py
+Help : python Name_of_Script.py First_Argument Second_Argument Third_Argument Fourth_Argument
+First_Argument : Directory path of existing directory
+Second_Argument : Path where you want to create directory at run time))
+Third_Argument : New directory name which you want to create))
+Fourth_Argument : Extension of files which you want to copy))

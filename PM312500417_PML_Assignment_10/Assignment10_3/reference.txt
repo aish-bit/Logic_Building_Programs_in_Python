@@ -1,0 +1,3 @@
+Copy Files and Directories in Python:
+https://pynative.com/python-copy-files-and-directories/#h-copy-entire-directory
+https://www.geeksforgeeks.org/python-shutil-copytree-method/

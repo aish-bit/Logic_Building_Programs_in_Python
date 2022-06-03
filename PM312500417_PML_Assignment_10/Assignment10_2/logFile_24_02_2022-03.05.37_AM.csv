@@ -1,0 +1,6 @@
+-----------------------Aishwarya Karande : Automation Script-------------------------
+Script name : ,DirectoryRename.py
+Help : python Name_of_Script.py First_Argument Second_Argument Third_Argument
+First_Argument : Directory path which is continuous string
+Second_Argument : Extension of existing files (including '.' eg.(.txt))
+Third_Argument : New extension of file (including '.' eg.(.docx))

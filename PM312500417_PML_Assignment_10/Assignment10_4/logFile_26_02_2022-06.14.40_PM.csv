@@ -1,0 +1,3 @@
+-----------------------Aishwarya Karande : Automation Script-------------------------
+Script name : ,DirectoryCopyExt.py
+Usage : Script accepts two directories path and name and one file extension from user respectively.Copy all files with specified extension from first directory into second directory. Second directory should be created at run time.

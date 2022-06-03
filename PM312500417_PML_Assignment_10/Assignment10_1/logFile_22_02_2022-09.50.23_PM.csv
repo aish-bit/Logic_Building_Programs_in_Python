@@ -1,0 +1,5 @@
+-----------------------Aishwarya Karande : Automation Script-------------------------
+Script name : ,DirectoryFileSearch1.py
+Help : python Name_of_Script.py First_Argument Second_argument
+First_Argument : Directory path which is continuous string
+Second_Argument : extension of file (including '.' eg.(.txt)) which is continuous string

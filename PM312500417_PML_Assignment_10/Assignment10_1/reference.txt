@@ -1,0 +1,11 @@
+How to traverse a directory in Python:
+https://www.kite.com/python/answers/how-to-traverse-a-directory-in-python
+
+Python – List files in directory with extension:
+https://www.geeksforgeeks.org/python-list-files-in-directory-with-extension/
+
+Find all files in a directory with extension .txt in Python:
+https://intellipaat.com/community/401/find-all-files-in-a-directory-with-extension-txt-in-python
+
+How to write to a .csv file without blank lines in Python:
+https://www.kite.com/python/answers/how-to-write-to-a-%60.csv%60-file-without-blank-lines-in-python#:~:text=Use%20csv.&text=In%20a%20with%2Das%2Dstatement,Call%20csv.
